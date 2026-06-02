@@ -90,7 +90,7 @@ Creates professional resume-ready bullet points based on repository architecture
 
 ---
 ### 🏗 Export feature is also available!!
-![Export](assets/go-engineering-review.pdf)
+[Export](assets/go-engineering-review.pdf)
 
 ## 🛠 Tech Stack
 
