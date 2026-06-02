@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+requests
+pydantic
+sqlalchemy
+reportlab
+ollama
+python-dotenv
