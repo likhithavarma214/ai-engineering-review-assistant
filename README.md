@@ -90,7 +90,8 @@ Creates professional resume-ready bullet points based on repository architecture
 
 ---
 ### 🏗 Export feature is also available!!
-[Export](assets/go-engineering-review.pdf)
+
+<img width="617" height="867" alt="Screenshot 2026-06-02 121505" src="https://github.com/user-attachments/assets/23c9a389-32b9-4f6e-aef0-d9446a58594d" />
 
 ## 🛠 Tech Stack
 
