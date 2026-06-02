@@ -89,6 +89,8 @@ Automatically generates repository-specific technical interview questions.
 Creates professional resume-ready bullet points based on repository architecture and engineering practices.
 
 ---
+### 🏗 Export feature is also available!!
+![Export](assets/go-engineering-review.pdf)
 
 ## 🛠 Tech Stack
 
